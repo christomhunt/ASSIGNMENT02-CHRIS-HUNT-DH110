@@ -20,4 +20,4 @@ For the Pilot Usability Test it will take place via Zoom with my Dad (who is sim
 
 The Pilot Usability Test showed me how I can improve my Usability Test in the future as well as what I can target with the musictheory.net mobile site.
 
-For the Usability Test this was my first time trying to record a user's screen on their phone and the camera facing them. In this case I had to use a laptop because Zoom isn't capable of sharing the screen on the phone and the camrea at the moment.
+For the Usability Test this was my first time trying to record a user's screen on their phone and the camera facing them. In this case I had to use a laptop because Zoom isn't capable of sharing the screen on the phone and the camrea at the moment. Also the Zoom setting I had seemed to only let one person at a time share their screen so when I shared mine the participants screen stopped sharing which may not seem like a big thing but setting it up may be time consuming for the participant. Secondly,
